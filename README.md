@@ -1,4 +1,5 @@
-For those interested in higher-resolution versions of the supplementary figures, they are available here.
+For those interested in higher-resolution versions of the supplementary figures for the paper: 
+(https://journals.plos.org/Plosbiology/article?id=10.1371/journal.pbio.3002909), they are available here.
 
 Figure Legend
 S1 Fig. The gray matter mask and the functional atlas used in our RSFC analysis. Preprocessed fetal 
