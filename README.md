@@ -1,3 +1,6 @@
+For those interested in higher-resolution versions of the supplementary figures, they are available here.
+
+Figure Legend
 S1 Fig. The gray matter mask and the functional atlas used in our RSFC analysis. Preprocessed fetal 
 and infant data sets were masked by a gray matter mask and then submitted to the SLIC toolbox 
 (https://www.nitrc.org/projects/slic/) to generate a data-driven, group-balanced
